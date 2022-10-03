@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gvidas Liausas</h1>
-<h3 align="center">A passionate front-end developer from United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvilia&label=Profile%20views&color=0e75b6&style=flat" alt="gvilia" /> </p>
 
